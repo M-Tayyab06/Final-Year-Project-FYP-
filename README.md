@@ -109,6 +109,7 @@ streamlit run app.py
 
 ## 🧪 Model Performance
 ![Confusion Matrix](https://github.com/user-attachments/assets/26a2856b-d6ae-4136-8d1a-34624a0a1b63)
+
 *Confusion Matrix can be found in the `/assets` folder.*
 
 ---
