@@ -3,7 +3,6 @@
 **by [@M-Tayyab06](https://github.com/M-Tayyab06)**
 
 A final-year AI-based healthcare project that detects *Cerebral Palsy (CP)* using real-time human pose estimation and deep learning. This Streamlit-powered web application analyzes joint angles from video or webcam input, processes them using custom-trained ANN and CNN models, and classifies whether the movement pattern indicates **Normal**, **Cerebral Palsy**, or **Unknown Disease**.
-![Dashboard Demo](https://github.com/user-attachments/assets/caf1a047-0691-4665-983e-af303d6d4e9a)
 *An interactive interface for real-time pose-based diagnosis.*
 
 ---
@@ -30,7 +29,7 @@ Cerebral Palsy (CP) affects posture and movement due to abnormal brain developme
 ---
 
 ## 📸 Application Demo
-![Confusion Matrix](https://github.com/user-attachments/assets/26a2856b-d6ae-4136-8d1a-34624a0a1b63)
+![Dashboard Demo](https://github.com/user-attachments/assets/caf1a047-0691-4665-983e-af303d6d4e9a)
 > Trained on labeled pose datasets using extracted joint-angle differences.
 ---
 
@@ -109,6 +108,7 @@ streamlit run app.py
 ---
 
 ## 🧪 Model Performance
+![Confusion Matrix](https://github.com/user-attachments/assets/26a2856b-d6ae-4136-8d1a-34624a0a1b63)
 *Confusion Matrix can be found in the `/assets` folder.*
 
 ---
