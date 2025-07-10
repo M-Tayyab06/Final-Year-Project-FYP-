@@ -30,9 +30,7 @@ Cerebral Palsy (CP) affects posture and movement due to abnormal brain developme
 ---
 
 ## 📸 Application Demo
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
+![Confusion Matrix](https://github.com/user-attachments/assets/26a2856b-d6ae-4136-8d1a-34624a0a1b63)
 > Trained on labeled pose datasets using extracted joint-angle differences.
 ---
 
@@ -111,9 +109,7 @@ streamlit run app.py
 ---
 
 ## 🧪 Model Performance
-
-![image](https://github.com/user-attachments/assets/667cb1ef-723b-45a1-b2bc-9130395e59ee)
-📌 *Confusion Matrix can be found in the `/assets` folder.*
+*Confusion Matrix can be found in the `/assets` folder.*
 
 ---
 
