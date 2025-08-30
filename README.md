@@ -4,7 +4,6 @@
 ![Stars](https://img.shields.io/github/stars/M-Tayyab06/Final-Year-Project-FYP-?style=social)
 ![Issues](https://img.shields.io/github/issues/M-Tayyab06/Final-Year-Project-FYP-)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Project](https://img.shields.io/badge/Final-Year_Project-FYP-blue)
 
 # Final-Year-Project-FYP: Cerebral Palsy Detection via Pose Estimation
 
